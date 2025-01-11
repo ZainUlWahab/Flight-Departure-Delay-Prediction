@@ -136,3 +136,7 @@ The project is divided into five phases:
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+### **Contact**
+For any inquiries or feedback, please contact me at:
+- **Email:** ulwahabzain@gmail.com
