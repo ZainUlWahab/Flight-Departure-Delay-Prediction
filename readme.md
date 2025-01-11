@@ -132,3 +132,7 @@ The project is divided into five phases:
 2. Use advanced machine learning models like XGBoost or Neural Networks.
 3. Implement automated feature selection techniques.
 4. Improve the efficiency of the preprocessing pipeline.
+
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
